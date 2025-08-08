@@ -45,6 +45,7 @@ public class AppTestWithDataProvider {
 	public void closeBroswer() {
 		driver.quit();
 		// extra line
+		// again this is a extra line.
 	}
 
 }
