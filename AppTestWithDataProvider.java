@@ -46,6 +46,8 @@ public class AppTestWithDataProvider {
 		driver.quit();
 		// extra line
 		// again this is a extra line.
+
+		// changes done in the UI.
 	}
 
 }
